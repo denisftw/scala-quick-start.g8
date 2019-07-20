@@ -1,6 +1,6 @@
 # Scala Quick Start
 
-This is a `giter8` template that provides the skeleton of an basic Scala application
+This is a `giter8` template that provides the skeleton of a basic Scala application
 
 ## Quick start
 
