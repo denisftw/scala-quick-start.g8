@@ -1,4 +1,4 @@
-package com.appliedscala.quickstart
+package $package$
 
 import com.typesafe.scalalogging.Logger
 

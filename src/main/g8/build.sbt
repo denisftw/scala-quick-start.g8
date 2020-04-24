@@ -2,7 +2,7 @@ name := """$name$"""
 
 organization := "$organization$"
 
-version := "1.0-SNAPSHOT"
+version := """$version$"""
 
 scalaVersion := "2.13.1"
 
