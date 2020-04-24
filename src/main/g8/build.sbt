@@ -1,8 +1,10 @@
 name := """$name$"""
 
+organization := "$organization$"
+
 version := "1.0-SNAPSHOT"
 
-scalaVersion := "2.13.0"
+scalaVersion := "2.13.1"
 
 libraryDependencies ++= Seq(
   "com.typesafe" % "config" % "1.3.2",
